@@ -31,11 +31,11 @@ License: [The MIT License](https://opensource.org/licenses/MIT)
 
 ## Credits
 
-https://www.w3schools.com/nodejs/
+https://developer.mozilla.org/en-US/docs/Web
 
-https://www.youtube.com/watch?v=SccSCuHhOw0
+https://www.w3schools.com/
 
-https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+https://www.geeksforgeeks.org/node-js-fs-writefile-method/
 
 ## Contributing
 
