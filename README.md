@@ -11,8 +11,8 @@ This app is designed to quickly generate professional README files for new proje
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Credits](#credits)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -40,10 +40,6 @@ https://www.geeksforgeeks.org/node-js-fs-writefile-method/
 ## Contributing
 
 Contact me at wending.chen2020@gmail.com
-
-## Tests
-
-N/A
 
 ## Questions
 
