@@ -29,6 +29,14 @@ License: [The MIT License](https://opensource.org/licenses/MIT)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
+## Credits
+
+https://www.w3schools.com/nodejs/
+
+https://www.youtube.com/watch?v=SccSCuHhOw0
+
+https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
 ## Contributing
 
 Contact me at wending.chen2020@gmail.com
