@@ -33,6 +33,8 @@ License: [The MIT License](https://opensource.org/licenses/MIT)
 
 ## Credits
 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
 https://developer.mozilla.org/en-US/docs/Web
 
 https://www.w3schools.com/
