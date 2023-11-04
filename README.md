@@ -17,11 +17,13 @@ This app is designed to quickly generate professional README files for new proje
 
 ## Installation
 
-Install NodeJS. Also install 'fs' and 'inquirer' packages.
+Install NodeJS. Also, install 'fs' and 'inquirer' packages.
 
 ## Usage
 
-Make sure you are in the correct location, open intergrated terminal and run 'node index.js'
+Make sure you are in the correct location, open integrated terminal and run 'node index.js'
+
+DEMO URL: https://drive.google.com/file/d/1aEDNeX87-D15F48yrRczuosRkDNsb2jx/view?usp=sharing
 
 ## License
 
