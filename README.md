@@ -41,4 +41,4 @@ N/A
 
 Contact me at wending.chen2020@gmail.com
 
-GitHub: [https://github.com/Landdoraine/09-README-Generator]
+GitHub: [https://github.com/Landdoraine]
